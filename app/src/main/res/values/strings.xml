@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Personal Markbook</string>
+
+  <string name="tab_text_1">Urnik</string>
+  <string name="tab_text_2">Redovalnica</string>
+  <string name="tab_text_3">Planner</string>
+</resources>
